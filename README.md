@@ -64,6 +64,6 @@ Extrapolatoin of line segments
 HSV Color Space
 ---
 When working with images and color selection HSV color space becomes quite handy (Learn more about HSV and HSL color space [here]()).
-<img src="https://en.wikipedia.org/wiki/HSL_and_HSV#/media/File:HSV_color_solid_cylinder_saturation_gray.png" alt="HSV Cylinder" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HSV_color_solid_cylinder_saturation_gray.png/1024px-HSV_color_solid_cylinder_saturation_gray.png" alt="HSV Cylinder" />
 Using **H**ue **S**aturation **V**alue color space and [`cv2.inRange()`](https://www.learnopencv.com/color-spaces-in-opencv-cpp-python/) function we can select any color range from image.
 This technique is used for final challenge video.
