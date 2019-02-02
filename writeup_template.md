@@ -45,15 +45,14 @@ Each stage result
 #### Hough Lines
 <img src="examples/hough_image.jpg" width="480" alt="Hough Lines" />
 
-<<<<<<< HEAD
 ### Final Output
 <img src="test_images_output/solidYellowCurve2_output.jpg" width="480" alt="Final Output" />
 
 
 Extrapolatoin of line segments
-=======
+---
 <img src="examples/grayscale.jpg" width="480" alt="Grayscaled Image" />
->>>>>>> 5c52cc10931d23f150394b232dfe7f68be37e698
+
 ---
 
 ## Improvements to draw_lines() function
@@ -83,7 +82,7 @@ this function returns x given y and slope and intercept of the line
 
 8. finally after getting x, y for both line lines were drawn on the image.
 
-_Care is taken to discard lines with infinite slope and code does not break when hough lines returns no lines._
+*Care is taken to discard lines with infinite slope and code does not break when hough lines returns no lines. *
 
 #### Improved Hough Lines
 <img src="examples/hough_image_extrapolated.jpg" width="480" alt="Improved Hough Lines" />
