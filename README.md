@@ -36,7 +36,7 @@ Each stage result
 <img src="examples/gray_image.jpg" width="480" alt="Grayscaled Image" />
 
 #### Gaussian Blurred Image
-<img src="examples/gauss_image.jpg" width="480" alt="Gaussian Blurred Image" />
+<img src="examples/gauss.jpg" width="480" alt="Gaussian Blurred Image" />
 
 #### Canny Edge Detection 
 <img src="examples/canny_image.jpg" width="480" alt="Canny Edge Detection" />
@@ -59,7 +59,7 @@ Extrapolatoin of line segments
 <img src="examples/hough_image_extrapolated.jpg" width="480" alt="Improved Hough Lines" />
 
 ### Improved Final Output
-<img src="test_images_output/solidYellowCurve2_extrapolated_output.jpg" width="480" alt="Improved Final Output" />
+<img src="test_images_output/solidYellowCurve2_extrapolate_output.jpg" width="480" alt="Improved Final Output" />
 
 HSV Color Space
 ---
